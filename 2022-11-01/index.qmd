@@ -1,0 +1,55 @@
+---
+title: "RainbowR update"
+data: "November 11th, 2022"
+format: 
+  revealjs:
+    theme: [dark, ../custom.scss]
+editor: source
+---
+
+## Since the launch...
+
+- held a pre-launch Zoom meeting/hangout
+
+- launched a new website: <https://rainbowr.netlify.app>
+
+- written a new [Code of Conduct](https://rainbowr.netlify.app/coc)
+
+- reopened the Slack group with [sign-up form](https://docs.google.com/forms/d/1y7SOWE3IW-fpR_5Cd4mK-CMUpFZ-hvhY4cTj34JqTVE/)
+
+- launched the [TidyRainbow](https://github.com/r-lgbtq/tidyrainbow) project
+
+- revitalised the [Twitter](https://twitter.com/R_LGBTQ) feed
+
+## Things that have gone well
+
+- Zoom meeting was well-attended and had a good feel to it
+
+- 44 new members in the Slack group (104 in total)
+
+- lots of new Twitter followers
+
+- lots of engagement with the TidyRainbow launch announcement
+
+- tweets aligned with out our mission to **support, promote and connect LGBTQ+ people in the R community and to and spread awareness of LGBTQ+ issues through data-driven activism**
+
+## Where things could be going better
+
+- very little activity on Slack, except for a few introductions in #welcome
+
+- have only posted/publicised one TidyRainbow dataset
+
+- could do with more people involved
+
+
+## What next?
+
+- another Zoom hangout, and schedule regularly (monthly? quarterly?)
+
+- send out another TidyRainbow dataset, and continue to do so regularly (monthly?)
+
+- organise some kind of event on Slack to get people logging in and engaging in community there
+
+- tidy up RainbowR website and make post template, then encourage others to contribute to blog
+
+- projects, e.g. pridepalettes
