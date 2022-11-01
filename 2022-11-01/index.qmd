@@ -1,37 +1,88 @@
 ---
-title: "RainbowR update"
-data: "November 11th, 2022"
+title: "RainbowR meetup"
+date: 2022-11-01
+date-format: long
+title-slide-attributes:
+  data-background-image: ../images/palettes.png
+  data-background-size: contain
+  data-background-opacity: "0.4"
 format: 
   revealjs:
     theme: [dark, ../custom.scss]
 editor: source
+self-contained: true
 ---
 
-## Since the launch...
+## Overview
 
-- held a pre-launch Zoom meeting/hangout
+- Notes about this session
+
+- What is rainbowR?
+
+- Who is it for?
+
+- Since the last meet-up
+
+- Show and Tell
+
+- Connecting and brainstorming breakout
+
+- Back together
+
+## Notes about this session
+
+-   This session is confidential
+    -   not recorded
+    -   notes won't be publicly shared
+    
+-   etherpad document (link in chat)
+
+-   operating under [rainbowR Code of Conduct](https://rainbowr.netlify.app/coc)
+
+    -   any unresolved issues to [rlgbtq@gmail.com](mailto:rlgbtq@gmail.com)
+
+## Getting ready for Show and Tell
+
+- Please post in chat if you've got something to show
+
+# Our mission is to *support*, *promote* and *connect* LGBTQ+ people in the R community and to *spread awareness* of LGBTQ+ issues through data-driven activism. {background-color="#e6b3ff" .smaller70}
+
+
+## LGBTQ+ people
+
+-   those who identify as being a minority sexual orientation, i.e. those who are not straight/heterosexual
+
+-   those who are not cisgender, i.e. those whose sense of personal identity and gender does not correspond with their birth sex
+
+### These are rainbowRs!
+
+. . .
+
+[To our straight, cis friends: we very much appreciate your allyship and your support of rainbowR, e.g. by sharing our information and posts on social media and by telling your friends and colleagues about us.]{.smaller70}
+
+# {background-image="../images/rainbowR-square.png" background-size="contain"}
+
+## Since the last meet-up
 
 - launched a new website: <https://rainbowr.netlify.app>
 
 - written a new [Code of Conduct](https://rainbowr.netlify.app/coc)
 
-- reopened the Slack group with [sign-up form](https://docs.google.com/forms/d/1y7SOWE3IW-fpR_5Cd4mK-CMUpFZ-hvhY4cTj34JqTVE/)
+- reopened the [Slack group](https://rainbowr.slack.com) with [sign-up form](https://docs.google.com/forms/d/1y7SOWE3IW-fpR_5Cd4mK-CMUpFZ-hvhY4cTj34JqTVE/)
 
 - launched the [TidyRainbow](https://github.com/r-lgbtq/tidyrainbow) project
 
 - revitalised the [Twitter](https://twitter.com/R_LGBTQ) feed
 
+- [gglgbtq](https://github.com/turtletopia/gglgbtq){target="_blank"} package
+
 ## Things that have gone well
 
-- Zoom meeting was well-attended and had a good feel to it
-
-- 44 new members in the Slack group (104 in total)
+- 47 new members in the Slack group (107 in total)
 
 - lots of new Twitter followers
 
-- lots of engagement with the TidyRainbow launch announcement
-
-- tweets aligned with out our mission to **support, promote and connect LGBTQ+ people in the R community and to and spread awareness of LGBTQ+ issues through data-driven activism**
+- lots of engagement with the TidyRainbow launch announcement tweet
 
 ## Where things could be going better
 
@@ -39,17 +90,54 @@ editor: source
 
 - have only posted/publicised one TidyRainbow dataset
 
-- could do with more people involved
-
+- would be good to have more people involved
 
 ## What next?
 
-- another Zoom hangout, and schedule regularly (monthly? quarterly?)
+- regular zoom hangouts (monthly? quarterly?)
 
 - send out another TidyRainbow dataset, and continue to do so regularly (monthly?)
 
 - organise some kind of event on Slack to get people logging in and engaging in community there
 
-- tidy up RainbowR website and make post template, then encourage others to contribute to blog
+- Make a rainbowR blog post template, then encourage others to contribute to blog
 
-- projects, e.g. pridepalettes
+- ideas from the community
+  
+  - add to etherpad
+  
+# Show and Tell! {background-color="#e6b3ff"}
+
+# Let's chat! {background-color="#e6b3ff"}
+
+## Breakout rooms
+
+- Some topics to discuss/note:
+
+  - what would *you* like RainbowR to be, in order to best serve its community?
+  
+  - what kind of activities would you like RainbowR to run?
+  
+  - ideas for blog-posts
+  
+  - ideas for data sets for data-driven activism
+  
+  - would you like to contribute and, if so, how?
+  
+  - Anything else you'd like to add
+
+## Back together
+
+- Share ideas from the breakout room
+
+- Any questions?
+
+# Thank you! {.center}
+
+```{r}
+#| echo: false
+#| eval: true
+#| out-width: 50%
+#| fig-align: center
+knitr::include_graphics("../images/rainbow-hearts.png")
+```

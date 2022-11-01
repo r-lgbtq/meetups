@@ -1,0 +1,4 @@
+- source: index.qmd
+  quarto-pub:
+    - id: 1e5e2f6a-da75-41e1-933d-5f013182d445
+      url: 'https://quartopub.com/sites/rainbowr/2022-11-01_rainbowr-meetup'

@@ -1,6 +1,6 @@
 /*-- scss:defaults --*/
 
-@import url(https://fonts.googleapis.com/css?family=Figtree&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Figtree:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Fira+Mono&display=swap);
 
 // fonts
@@ -56,4 +56,24 @@ $presentation-heading-color: $cyan;
 
 // Links
 
-$link-color:                              $cyan !default;
+$link-color:                $cyan !default;
+
+// Text size and weight
+
+h1, h2 {
+  font-weight: 700;
+}
+
+.smaller70 {
+  font-size: 70%
+}
+
+// styling for date on title slide
+p.date {
+  color: $cyan;
+  font-weight: 700;
+}
+
+.center {
+  text-align: center; 
+}
